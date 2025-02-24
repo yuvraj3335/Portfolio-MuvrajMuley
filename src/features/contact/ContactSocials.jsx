@@ -12,7 +12,7 @@ function ContactSocials() {
     },
     {
       social: "linkedin",
-      un: "Yuvraj - github",
+      un: "linked-in",
       href: "www.linkedin.com/in/yuvraj-muley",
     },
 {
